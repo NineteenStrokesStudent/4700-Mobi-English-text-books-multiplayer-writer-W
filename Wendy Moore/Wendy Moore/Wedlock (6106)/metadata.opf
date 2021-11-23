@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6106</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ee2a65a5-9708-4993-a088-4cab84948afd</dc:identifier>
+        <dc:title>Wedlock</dc:title>
+        <dc:creator opf:file-as="Moore, Wendy" opf:role="aut">Wendy Moore</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-06-14T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+With the death of her fabulously wealthy coal magnate father when she was just eleven, Mary Eleanor Bowes became the richest heiress in Britain. An ancestor of Queen Elizabeth II, Mary grew to be a highly educated young woman, winning acclaim as a playwright and botanist. Courted by a bevy of eager suitors, at eighteen she married the handsome but aloof ninth Earl of Strathmore in a celebrated, if ultimately troubled, match that forged the Bowes Lyon name. Yet she stumbled headlong into scandal when, following her husband’s early death, a charming young army hero flattered his way into the merry widow’s bed. Captain Andrew Robinson Stoney insisted on defending her honor in a duel, and Mary was convinced she had found true love. Judged by doctors to have been mortally wounded in the melee, Stoney persuaded Mary to grant his dying wish; four days later they were married.Sadly, the “captain” was not what he seemed. Staging a sudden and remarkable recovery, Stoney was revealed as a debt-ridden lieutenant, a fraudster, and a bully. Immediately taking control of Mary’s vast fortune, he squandered her wealth and embarked on a campaign of appalling violence and cruelty against his new bride. Finally, fearing for her life, Mary masterminded an audacious escape and challenged social conventions of the day by launching a suit for divorce. The English public was horrified–and enthralled. But Mary’s troubles were far from over . . . Novelist William Makepeace Thackeray was inspired by Stoney’s villainy to write *The Luck of Barry Lyndon,* which Stanley Kubrick turned into an Oscar-winning film. Based on exhaustive archival research, *Wedlock* is a thrilling and cinematic true story, ripped from the headlines of eighteenth-century England.*From the Hardcover edition.*</dc:description>
+        <dc:publisher>THREE RIVERS PR</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780307383365</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Autobiography</dc:subject>
+        <dc:subject>History</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-06-25T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Wedlock" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Autobiography&quot;, &quot;History&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

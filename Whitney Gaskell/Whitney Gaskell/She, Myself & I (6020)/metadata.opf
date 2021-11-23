@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6020</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6baba7ac-75ee-4f3d-91c7-73bfad19d542</dc:identifier>
+        <dc:title>She, Myself &amp; I</dc:title>
+        <dc:creator opf:file-as="Gaskell, Whitney" opf:role="aut">Whitney Gaskell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-09-27T20:24:31.383000+00:00</dc:date>
+        <dc:description>SUMMARY:
+The Cassel sisters have little in common besides a pair of wacky parents and a maddening knack for eluding happily-ever-after endings. But when their lives require damage control, only a dose of sisterhood will do.Paige, the oldest, is a go-getter divorce attorney who’s reeling from her own disastrously failed marriage–and the fact that her ex has suddenly come roaring out of the closet with a cute boyfriend in tow. Middle sister Sophie is having trouble adjusting to life as a wife and expectant mom. With her doubts on the rise along with her weight, she’s ogling every available baked good–and every available man–that crosses her path. And up-and-coming medical student Mickey has a racy new plan for her future that’s sure to shock her entire family. It includes a dangerously handsome, decidedly married chef…private cooking lessons…and spicy lingerie. To top it all off, the parents who dragged them through the Divorce from Hell years ago are acting like teenagers in love…with each other! One by one, Paige, Sophie, and Mickey are about to learn just how good it is to have a sisterly shoulder–or two–to lean on.</dc:description>
+        <dc:publisher>Random House, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780553383133</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Humor</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-18T20:22:50.042000+00:00" name="calibre:timestamp"/>
+        <meta content="She, Myself &amp; I" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Humor&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

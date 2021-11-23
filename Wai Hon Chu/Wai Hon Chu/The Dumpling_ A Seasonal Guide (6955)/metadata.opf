@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6955</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cc7bd7a7-f2b8-479b-bb62-5dd9b688c007</dc:identifier>
+        <dc:title>The Dumpling: A Seasonal Guide</dc:title>
+        <dc:creator opf:file-as="Chu, Wai Hon &amp; Lovatt, Connie" opf:role="aut">Wai Hon Chu</dc:creator>
+        <dc:creator opf:file-as="Chu, Wai Hon &amp; Lovatt, Connie" opf:role="aut">Connie Lovatt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-10-14T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+*The Dumpling: A Seasonal Guide* by Wai Hon Chu and Connie Lovatt is the most comprehensive collection of dumpling recipes ever produced.  
+
+ Discovering that dumplings—as a category of food—have never been properly defined, Chu and Lovatt developed a definition that takes into account the ingredients, cooking methods, and shapes that most commonly define dumplings, not just in a particular region or culture, but around the world.  
+
+ *"A dumpling is a portion of dough, batter, or starchy plant fare, solid or filled, that is cooked through wet heat, and is not a strand or a ribbon"*  
+
+ This exciting collection shows us that not only are pot stickers, pierogis, and shao mai dumplings but so too are tamales, steamed cakes, and steamed breads. From Chickpea Dumplings in a Tomato Sauce (India) to Leaf-Wrapped Rice Packages Stuffed with Peanuts and Sausage (China), from Chocolate Tamales (Mexico) to a "Napkin" Bread Dumpling with Cherries (Austria), from Cloud-Shaped Bread Buns (Tibet) to Potato Dumplings with Cabbage Layers (Hungary), dumplings, whether steamed or simmered, are as fun to make as they are to eat.  
+
+ A truly passionate exploration of every dumpling type imaginable, *The Dumpling* contains dessert varieties, dumplings for gifts or entertaining, dozens of vegetarian and vegan options, fast and easy dumplings, as well as 21 pages of step-by-step dumpling making-illustrations. Arranged by month so as to encourage all of us to cook dumplings seasonally and year round, *The Dumpling* contains a recipe for every taste bud, table, and occasion.  
+
+ Chapters 10, 11, and 12  
+
+ October  
+
+ No-Fuss Potato Dumplings • Spiced Carrot Pudding • Collard Greens with Corn Dumplings • Chicken Paprika with Dumplings • Bean Soup with Tiny Dumplings • Chickpea "Fish" in a Spicy Onion Sauce • Bacon and Sage Roly Poly • Daikon Cake • Cheddar Cheese and Potato Pierogi • Lentil and Onion Pierogi • Potato "Tamales" Stuffed with Chicken and Jalapeno • Beef-Stuffed Plantain Balls in a Cassava-Corn Soup  
+
+ November  
+
+ Dumplings and Cocky’s Joy • "Napkin" Bread Dumpling • Turkey Stew with Stuffing Dumplings • Cranberry Pudding • Lord Randall’s Pudding, An Apricot Dessert • Sticky Toffee Pudding • Potato Dumplings with Crouton Centers • Country Cabbage Soup with Large Cornmeal Dumplings • Philadelphia Pepperpot Soup with Dumplings • Large Beef- and Spinach-Filled Dumplings in Beef Broth • Dumplings Stuffed with Pears, Figs, and Chocolate • Pumpkin and Lentil Ravioli with Browned Butter and Rosemary • "Little Ear" Dumplings Stuffed with Mushrooms in a Beet Soup  
+
+ December  
+
+ Root Vegetable Bread Dumplings • Clootie Dumpling • Starchy Coconut Stew with Slippery Rice Balls • Guava Duff • Potato Dumplings with Cabbage Layers • John in the Sack • Classic Christmas Pudding • Chocolate Tamales • Siberian Meat Dumplings • Chestnut Ravioli with Sage Butter Sauce • Chicken-Filled Dumplings in an Escarole Soup • Dumplings Stuffed with "Stewed" Breadcrumbs</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780060817381</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Food</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-10-02T07:54:53.267000+00:00" name="calibre:timestamp"/>
+        <meta content="Dumpling: A Seasonal Guide, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Food&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>
